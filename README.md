@@ -1,22 +1,7 @@
-# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
-
-I got the user interface for the web from a student of mine, Pat Wilken.
-
-A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
-
-A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
-
-Marking
------
-
-|Element|Out Of|
-|---|---|
-|get a game or choose your own adventure in es6| 50|
-|multiplayer - each person plays their own game against the bot.| 10|
-|count case and if statements|2/3 each up to 20 points|
-|spelling and grammar|10|
-|on time|10|
-
-
-
-
+Open or install visual studio code.
+Create the new file with .js extension or clone any git repository from github if you want to make any modifications to the previous completed project . Open your command terminal and here is Command to clone the project : git clone <paste link here> .
+Make sure you install the npm otherwise the code will not be executed. Command to install npm : npm install
+Now type your code and save it.
+Type npm start and you will see the output in the command terminal
+If you want to show your project on browser, then it must have index.js , index.html and index.css file. After that type npm start in command terminal. It will talk to your localhost:3000
+Open localhost:3000 in your browser and see the results.
